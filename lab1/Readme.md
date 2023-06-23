@@ -2,7 +2,9 @@
 
 **Lab DC is based on a CLOS topology and it's simulated by EVENG tool**
 
-![clos_topology.png](assets/clos_topology.png)
+
+<img src="https://github.com/Inqex/dc_labs/blob/main/lab1/assets/clos_topology.png"  width="400" height="350">
+
 
 Task 1: Generate an IP plan
 
