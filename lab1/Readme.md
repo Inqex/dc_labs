@@ -2,7 +2,7 @@
 
 **Lab DC is based on a CLOS topology and it's simulated by EVENG tool**
 
-<img src="https://github.com/Inqex/dc_labs/blob/main/lab1/assets/clos_topology.png"  width="400" height="350">
+<img src="https://github.com/Inqex/dc_labs/blob/main/lab1/assets/clos_topology.png"  width="500" height="350">
 
 
 
