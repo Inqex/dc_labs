@@ -2,7 +2,7 @@ Here is a scheme and IP plan of the lab data center.
 
 Lab DC is based on a CLOS topology and it's simulated by EVENG tool.
 
-![clos_topology.png](assets/clos_topology.png)
+![clos_topology.png](assets/clos_topology.png?t=1687552905264)
 
 Task 1: Generate an IP plan
 
